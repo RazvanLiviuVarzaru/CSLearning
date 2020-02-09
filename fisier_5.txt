@@ -2,3 +2,4 @@ abc
 doispe
 pe server
 modificare edit
+am adaugat
